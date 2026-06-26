@@ -1,5 +1,5 @@
 # React Component Review
-
+## Heavily inspired by DietrichGebert/ponytail 
 A senior-engineer review knowledge base for React components written in JSX or TSX.
 
 This repository is designed for use with coding agents such as Codex and Claude Code. It teaches the agent how to review React components for maintainability, architecture, readability, accessibility, TypeScript quality, and long-term ownership.
@@ -42,7 +42,7 @@ Point your coding agent at this repository or copy the folder into your agent sk
 
 ## Review output
 
-Findings should be ordered by severity: High, Medium, Low.
+Findings should be ordered by severity: High (P0), Medium (P1), Low (P2).
 
 Each finding should include:
 
