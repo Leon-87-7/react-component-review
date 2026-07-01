@@ -17,6 +17,7 @@ Before reviewing, read the companion files in this folder:
 - `jsx.md`
 - `architecture.md`
 - `async.md`
+- `forms.md`
 - `accessibility.md`
 - `nextjs.md`
 - `naming.md`
